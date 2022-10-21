@@ -1,4 +1,4 @@
-# Tarea-3.-Redes-Neuronales-Funciones-y-Ecuaciones-Diferenciales
+# Tarea-3. Redes Neuronales Funciones y Ecuaciones Diferenciales.
 Repositorio para subir los archivos de la Tarea 3 de la materia RNA.  
 En la carpeta Notebooks se subieron los distintos notebooks, que muestran como corre cada código.
 
